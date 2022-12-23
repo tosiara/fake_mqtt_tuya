@@ -24,7 +24,7 @@ To patch `ppsapp` and replace the cerificate you must use hex editor, find DER c
 
 # Compile
 
-Download ARM toolchain. I sued this one:
+Download ARM toolchain. I used this one:
 
 * https://toolchains.bootlin.com/releases_armv5-eabi.html
 * armv5-eabi--uclibc--stable-2018.02-2
