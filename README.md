@@ -20,7 +20,7 @@ For rooting and unlocking your device check the following repos and their wikis,
 * https://github.com/guino/Merkury1080P
 * https://github.com/guino/ppsapp-rtsp
 
-To patch `ppsapp` and replace the cerificate you must use hex editor, find DER certificate inside the binary and replace it with yours.
+To patch `ppsapp` and replace the cerificate you must use hex editor, find DER certificate inside the binary and replace it with yours. See here: https://github.com/guino/ppsapp-rtsp/issues/47#issuecomment-1359460388
 
 # Compile
 
